@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi there, I'm Mahantesh Hiremath 👋
 
-<!--
-**mahanteshimath/mahanteshimath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Data Engineer Tech Lead | AI-Powered Data Solutions Architect
 
-Here are some ideas to get you started:
+> *Transforming data into intelligent insights with 12+ years of enterprise experience*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I Do
+- **Lead & Scale**: Built and managed 30+ member data engineering teams, delivering $5M+ projects
+- **Optimize & Innovate**: Saved $1M+ annually through HANA NSE implementation and automated Snowflake optimizations
+- **AI Integration**: Pioneering Databricks AI for metadata optimization across 1,000+ database objects
+
+### 🛠️ Tech Arsenal
+
+**Data Platforms & Warehouses**
+```
+Databricks • Snowflake • Apache Iceberg • SAP HANA • Azure • AWS
+```
+
+**Data Engineering & Processing**
+```
+PySpark • Airflow • Kafka • Python • Docker • Real-time Streaming
+```
+
+**AI & Analytics**
+```
+Gemini • ChatGPT • Claude • Agentic AI • Prompt Engineering • Streamlit
+```
+
+**Integration & ETL**
+```
+Azure Data Factory • Informatica • SAP BODS • Apache Airflow
+```
+
+### 🎯 Recent Achievements
+
+🏆 **Cost Optimization Expert**
+- Reduced EC2 usage by 50% saving $1M annually
+- Cut Snowflake costs by $10K+/month through intelligent automation
+
+🔧 **Technical Innovation**
+- Built internal data observability tools using Streamlit
+- Processed real-time data streaming with Amazon Kinesis Data Firehose
+- Architected modern Lakehouse architecture for scalable analytics
+
+👥 **Team Leadership**
+- Successfully scaled engineering teams from ground up
+- Interviewed 200+ candidates, building high-performing data teams
+- Delivered 15+ complex data engineering projects independently
+
+### 🏅 Recognition & Hackathons
+
+- **3M Annual 1% TCC Award** - Cost optimization excellence
+- **Snowflake Hackathon** - 2nd Prize (₹60K Mac Mini) + 2x Top 5 Finalist
+- **Alexa Prize Hive Challenge** - Winner
+- **IBM Manager's Choice Award** - Outstanding performance
+- **Perfect 10/10 Client Rating** - IBM project delivery
+
+### 📚 Continuous Learning
+
+🎓 **Currently Pursuing**: M.Tech in Artificial Intelligence - IIT Jodhpur (2025-2027)
+
+🏆 **40+ Professional Certifications** including:
+- AWS Cloud Practitioner
+- Microsoft Azure (AZ-900, DP-900)
+- Snowflake Essentials
+- IBM Data Science Certificate
+- SAP HANA 2.0 Certified
+
+### 🌟 Leadership Philosophy
+
+*"I believe in building data solutions that don't just work today, but scale for tomorrow. My approach combines technical excellence with team empowerment, creating systems that drive real business value while fostering innovation."*
+
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mahantesh-hiremath)
+[![Email](https://img.shields.io/badge/Email-mahanteshimath@gmail.com-red?style=flat-square&logo=gmail)](mailto:mahanteshimath@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-ATOZABOUTDATA-green?style=flat-square&logo=medium)](https://atozaboutdata.com)
+
+---
+
+💬 **Open to collaborating on**: Data Engineering Projects • AI/ML Integration • Cloud Architecture • Team Building
+
