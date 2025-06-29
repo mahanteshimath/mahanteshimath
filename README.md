@@ -60,6 +60,7 @@ Azure Data Factory • Informatica • SAP BODS • Apache Airflow
 🎓 **Currently Pursuing**: M.Tech in Artificial Intelligence - IIT Jodhpur (2025-2027)
 
 🏆 **40+ Professional Certifications** including:
+  https://bit.ly/2VlDBj0
 - AWS Cloud Practitioner
 - Microsoft Azure (AZ-900, DP-900)
 - Snowflake Essentials
@@ -74,7 +75,7 @@ Azure Data Factory • Informatica • SAP BODS • Apache Airflow
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mahantesh-hiremath)
 [![Email](https://img.shields.io/badge/Email-mahanteshimath@gmail.com-red?style=flat-square&logo=gmail)](mailto:mahanteshimath@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-ATOZABOUTDATA-green?style=flat-square&logo=medium)](https://atozaboutdata.com)
+[![Blog](https://img.shields.io/badge/Blog-ATOZABOUTDATA-green?style=flat-square&logo=medium)](mahantesh-hiremath.medium.com)
 
 ---
 
