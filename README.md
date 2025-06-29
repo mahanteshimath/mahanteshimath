@@ -7,7 +7,7 @@
 ### 💡 What I Do
 - **Lead & Scale**: Built and managed 30+ member data engineering teams, delivering $5M+ projects
 - **Optimize & Innovate**: Saved $1M+ annually through HANA NSE implementation and automated Snowflake optimizations
-- **AI Integration**: Pioneering Databricks AI for metadata optimization across 1,000+ database objects
+- **AI Integration**: I have worked as a data engineer(ETL/ETL....TILL DATALAKE), data visualization guy, and currently transition to AI Engineer with all experimentation RAG/Chat bot, Agents etc.
 
 ### 🛠️ Tech Arsenal
 
