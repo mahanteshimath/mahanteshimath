@@ -75,7 +75,8 @@ Azure Data Factory • Informatica • SAP BODS • Apache Airflow
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mahantesh-hiremath)
 [![Email](https://img.shields.io/badge/Email-mahanteshimath@gmail.com-red?style=flat-square&logo=gmail)](mailto:mahanteshimath@gmail.com)
-[![Blog]](mahantesh-hiremath.medium.com)
+[![Blog](https://img.shields.io/badge/Blog-Medium-black?style=flat-square&logo=medium)](https://mahantesh-hiremath.medium.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube)](https://yt.openinapp.co/atozaboutdata)
 
 ---
 
