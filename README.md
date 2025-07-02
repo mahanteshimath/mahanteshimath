@@ -28,7 +28,7 @@ Gemini • ChatGPT • Claude • Agentic AI • Prompt Engineering • Streamli
 
 **Integration & ETL**
 ```
-Azure Data Factory • Informatica • SAP BODS • Apache Airflow
+Azure Data Factory • Informatica • SAP BODS • Apache Airflow  • IICS
 ```
 
 ### 🎯 Recent Achievements
@@ -48,8 +48,6 @@ Azure Data Factory • Informatica • SAP BODS • Apache Airflow
 - Delivered 15+ complex data engineering projects independently
 
 ### 🏅 Recognition & Hackathons
-
-- **3M Annual 1% TCC Award** - Cost optimization excellence
 - **Snowflake Hackathon** - 2nd Prize (₹60K Mac Mini) + 2x Top 5 Finalist
 - **Alexa Prize Hive Challenge** - Winner
 - **IBM Manager's Choice Award** - Outstanding performance
@@ -66,6 +64,9 @@ Azure Data Factory • Informatica • SAP BODS • Apache Airflow
 - Snowflake Essentials
 - IBM Data Science Certificate
 - SAP HANA 2.0 Certified
+- One of my streamlit app showcased in the Gallery of Streamlit 
+
+
 
 ### 🌟 Leadership Philosophy
 
