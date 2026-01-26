@@ -1,8 +1,8 @@
 # Hi there, I'm Mahantesh Hiremath 👋
 
-## 🚀 Data Engineer Tech Lead | AI-Powered Data Solutions Architect
+## 🚀 Lead AI | Data Engineer converted to AI Engineer  
 
-> *Transforming data into intelligent insights with 12+ years of enterprise experience*
+> *Transforming data into intelligent insights with 13+ years of enterprise experience*
 
 ### 💡 What I Do
 - **Lead & Scale**: Built and managed 30+ member data engineering teams, delivering $5M+ projects
