@@ -1,0 +1,67 @@
+.band {
+  background: var(--color-ink);
+  color: var(--color-on-dark);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.stat {
+  padding: var(--space-7) var(--space-5) var(--space-7) 0;
+  border-right: 1px solid var(--color-on-dark-line);
+}
+
+.stat:last-child {
+  border-right: 0;
+}
+
+.stat + .stat {
+  padding-left: var(--space-5);
+}
+
+.value {
+  display: block;
+  font-family: var(--font-display);
+  font-size: clamp(2.25rem, 3.4vw, 3rem);
+  font-weight: 600;
+  line-height: 1;
+  color: var(--color-sand);
+  font-variant-numeric: tabular-nums;
+}
+
+.label {
+  display: block;
+  max-width: 16ch;
+  margin-top: var(--space-3);
+  color: var(--color-on-dark-muted);
+  font-size: var(--text-small);
+  line-height: 1.45;
+}
+
+@media (max-width: 800px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .stat {
+    padding: var(--space-5) var(--space-4) var(--space-5) 0;
+  }
+
+  .stat:nth-child(2n) {
+    border-right: 0;
+  }
+
+  .stat:nth-child(-n + 2) {
+    border-bottom: 1px solid var(--color-on-dark-line);
+  }
+
+  .stat + .stat {
+    padding-left: 0;
+  }
+
+  .stat:nth-child(2n) {
+    padding-left: var(--space-4);
+  }
+}

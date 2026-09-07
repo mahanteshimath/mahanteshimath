@@ -1,0 +1,116 @@
+.form {
+  display: grid;
+  gap: var(--space-5);
+  align-content: start;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: var(--space-4);
+}
+
+.field {
+  display: grid;
+  gap: var(--space-2);
+}
+
+.label {
+  font-family: var(--font-mono);
+  font-size: var(--text-label);
+  letter-spacing: var(--tracking-label);
+  text-transform: uppercase;
+  color: var(--color-muted);
+}
+
+.input,
+.textarea {
+  width: 100%;
+  padding: var(--space-3) var(--space-4);
+  background: var(--color-paper-raised);
+  border: 1px solid var(--color-line);
+  font-size: var(--text-body);
+  transition:
+    border-color var(--duration-base) var(--ease-out),
+    box-shadow var(--duration-base) var(--ease-out);
+}
+
+.textarea {
+  resize: vertical;
+  min-height: 8rem;
+  line-height: 1.6;
+}
+
+.input:hover,
+.textarea:hover {
+  border-color: var(--color-muted);
+}
+
+.input:focus,
+.textarea:focus {
+  outline: none;
+  border-color: var(--color-accent);
+  box-shadow: 0 0 0 3px var(--color-accent-wash);
+}
+
+.invalid {
+  border-color: var(--color-danger);
+}
+
+.invalid:focus {
+  border-color: var(--color-danger);
+  box-shadow: 0 0 0 3px rgba(165, 52, 31, 0.14);
+}
+
+.error {
+  color: var(--color-danger);
+  font-size: var(--text-small);
+}
+
+.formError {
+  padding: var(--space-3) var(--space-4);
+  border-left: 2px solid var(--color-danger);
+  background: rgba(165, 52, 31, 0.07);
+  color: var(--color-danger);
+  font-size: var(--text-small);
+}
+
+.formError a {
+  text-decoration: underline;
+}
+
+.honeypot {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.successPanel {
+  display: grid;
+  justify-items: start;
+  gap: var(--space-3);
+  padding: var(--space-7) var(--space-6);
+  background: var(--color-paper-raised);
+  border-left: 2px solid var(--color-success);
+}
+
+.successTitle {
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  letter-spacing: var(--tracking-tight);
+}
+
+.successBody {
+  color: var(--color-muted);
+  font-size: var(--text-body);
+  margin-bottom: var(--space-2);
+}
+
+@media (max-width: 620px) {
+  .row {
+    grid-template-columns: 1fr;
+  }
+}

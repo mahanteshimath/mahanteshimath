@@ -1,0 +1,8 @@
+export { Contact } from './Contact'
+export { Experience } from './Experience'
+export { Expertise } from './Expertise'
+export { Hero } from './Hero'
+export { Impact } from './Impact'
+export { Testimonials } from './Testimonials'
+export { Work } from './Work'
+export { Writing } from './Writing'

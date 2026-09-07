@@ -1,0 +1,100 @@
+.layout {
+  display: grid;
+  grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
+  gap: clamp(2rem, 5vw, 5rem);
+  align-items: start;
+}
+
+.detailList {
+  display: grid;
+  gap: var(--space-5);
+  margin: 0;
+}
+
+.detail {
+  padding-bottom: var(--space-5);
+  border-bottom: 1px solid var(--color-line-soft);
+}
+
+.detail:last-child {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+
+.detailLabel {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-family: var(--font-mono);
+  font-size: var(--text-label);
+  letter-spacing: var(--tracking-label);
+  text-transform: uppercase;
+  color: var(--color-faint);
+}
+
+.detailLabel svg {
+  color: var(--color-accent);
+}
+
+.detailValue {
+  margin: var(--space-2) 0 0;
+  font-size: var(--text-body);
+  color: var(--color-ink-soft);
+  line-height: 1.6;
+}
+
+.emailLink {
+  border-bottom: 1px solid var(--color-line);
+  transition:
+    color var(--duration-base) var(--ease-out),
+    border-color var(--duration-base) var(--ease-out);
+}
+
+.emailLink:hover {
+  color: var(--color-accent);
+  border-color: var(--color-accent);
+}
+
+.socials {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  margin-top: var(--space-7);
+}
+
+.social {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-2) var(--space-4);
+  border: 1px solid var(--color-line);
+  font-size: var(--text-small);
+  font-weight: 500;
+  transition:
+    color var(--duration-base) var(--ease-out),
+    border-color var(--duration-base) var(--ease-out),
+    background-color var(--duration-base) var(--ease-out),
+    transform var(--duration-base) var(--ease-out);
+}
+
+.social:hover {
+  color: #fff;
+  background: var(--color-ink);
+  border-color: var(--color-ink);
+  transform: translateY(-2px);
+}
+
+.social span {
+  color: var(--color-accent);
+}
+
+.social:hover span {
+  color: inherit;
+}
+
+@media (max-width: 880px) {
+  .layout {
+    grid-template-columns: 1fr;
+    gap: var(--space-8);
+  }
+}

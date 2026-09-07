@@ -1,0 +1,70 @@
+.section {
+  /* Bottom padding is optically heavier so sections do not feel top-loaded. */
+  padding-block: var(--section-padding) calc(var(--section-padding) * 1.1);
+}
+
+.paper {
+  background: var(--color-paper);
+}
+
+.sunken {
+  background: var(--color-paper-sunken);
+}
+
+.lime {
+  background: var(--color-lime);
+}
+
+.teal {
+  background: var(--color-teal);
+  color: var(--color-on-dark);
+}
+
+.heading {
+  margin-bottom: var(--space-9);
+}
+
+.headingRow {
+  display: grid;
+  grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr);
+  align-items: end;
+  column-gap: var(--space-8);
+  margin-top: var(--space-5);
+}
+
+.title {
+  font-family: var(--font-display);
+  font-size: var(--text-h2);
+  line-height: 1.02;
+  letter-spacing: var(--tracking-tight);
+}
+
+.description {
+  max-width: 38ch;
+  color: var(--color-muted);
+  font-size: var(--text-body);
+  line-height: 1.65;
+}
+
+.teal .description {
+  color: var(--color-on-dark-muted);
+}
+
+.aside {
+  margin-top: var(--space-5);
+}
+
+@media (max-width: 800px) {
+  .headingRow {
+    grid-template-columns: 1fr;
+    row-gap: var(--space-4);
+  }
+
+  .heading {
+    margin-bottom: var(--space-7);
+  }
+
+  .description {
+    max-width: var(--measure);
+  }
+}
